@@ -32,34 +32,12 @@ account, in the right currency and at the right time.
 - Assisting the Treasury & Rule Book manager with audit queries.
 
 ## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+### Problem solving
+My background in finance has equipped me with a passion for coming up with tackling challenges in an efficient manner. During my time at Makers Academy, there were numerous occasions where my problem solving was tested. An example of this was during our final project, a problem arose when we were trying to figure out how to implement the prices of ingredients for our recipe app. I was able to come up with a solution which required the implementation of a web scraper. I managed to solve this problem whilst learning a lot throughout the process.
+### Leadership
+During my first project at Makers, I was introduced to the idea of using a different team lead every day for a group project by one of my cohort members. I embraced this opportunity to act as a Team Lead by making sure I was well prepared and fully aware of the project overview and objectives, as well as encouraged the use of agile methodologies.
+### Team-player
+I am an adept team player who has worked in countless teams throughout my times at university, my previous roles and Makers Academy. Therefore as a good team player, I've always ensured that any work I've done has been finished on time and kept to the project schedule. This was documented and evidenced at makers on my final project using Trello where I completed my team and individual tickets in the required time. 
 
 ## Education
 
@@ -85,4 +63,7 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Strength training 
+- Football
+- Cricket
+- Reading
