@@ -11,8 +11,7 @@ A determined, hard-working full stack developer from London, passionate about le
 
 ## Work Experience
 
-**Exolum Corporation** <br>(June 2022 - July 2022)<br>
-Treasury Assistant<br>
+**Exolum Corporation** <br>Treasury Assistant (June 2022 - July 2022)<br>
 • Clearing open items on bank reconciliations in SAP accounting
 system for UK and Ireland bank accounts.<br>
 • Set up manual payments as well as oversee and execute weekly
