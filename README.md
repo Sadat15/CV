@@ -7,7 +7,7 @@ A determined, hard-working full stack developer from London, passionate about le
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| [**Acebook**](https://github.com/adaoub/acebook) | Social media app inspired by Facebook. Features include comments, likes friend requests | JavaScript, Express, Node.js, Handlebars, MongoDB              |
 
 ## Work Experience
 
