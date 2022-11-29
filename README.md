@@ -21,14 +21,14 @@ HANA for operational treasury activities and reconciliation tasks.<br>
 • Assist accounting and corporate finance management with other
 duties and/or projects as required.
 
-**Liberty Specialty Markets** (November 2021 - February 2022)
+**Liberty Specialty Markets** <br>Treasury Assistant (November 2021 - February 2022)<br>
 • Ensuring all manual payments are processed accurately by
-checking the required supporting documentation.
+checking the required supporting documentation.<br>
 • Uploading BACS/Thrupay/SEPA payment files across various
-banking platforms.
+banking platforms.<br>
 • Assisting the Cash & Funding manager with processing the daily
 intercompany transfers to make sure the cash is in the right
-account, in the right currency and at the right time.
+account, in the right currency and at the right time.<br>
 • Assisting the Treasury & Rule Book manager with audit queries.
 
 ## Skills
