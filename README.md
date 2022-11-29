@@ -12,24 +12,24 @@ A determined, hard-working full stack developer from London, passionate about le
 ## Work Experience
 
 **Exolum Corporation** <br>Treasury Assistant (June 2022 - July 2022)<br>
-• Clearing open items on bank reconciliations in SAP accounting
-system for UK and Ireland bank accounts.<br>
-• Set up manual payments as well as oversee and execute weekly
-payment runs for payment of suppliers.<br>
-• Performing month end reporting and closing activities in SAP S4
-HANA for operational treasury activities and reconciliation tasks.<br>
-• Assist accounting and corporate finance management with other
+- Clearing open items on bank reconciliations in SAP accounting
+system for UK and Ireland bank accounts.
+- Set up manual payments as well as oversee and execute weekly
+payment runs for payment of suppliers.
+- Performing month end reporting and closing activities in SAP S4
+HANA for operational treasury activities and reconciliation tasks.
+- Assist accounting and corporate finance management with other
 duties and/or projects as required.
 
 **Liberty Specialty Markets** <br>Treasury Assistant (November 2021 - February 2022)<br>
-• Ensuring all manual payments are processed accurately by
-checking the required supporting documentation.<br>
-• Uploading BACS/Thrupay/SEPA payment files across various
-banking platforms.<br>
-• Assisting the Cash & Funding manager with processing the daily
+- Ensuring all manual payments are processed accurately by
+checking the required supporting documentation.
+- Uploading BACS/Thrupay/SEPA payment files across various
+banking platforms.
+- Assisting the Cash & Funding manager with processing the daily
 intercompany transfers to make sure the cash is in the right
-account, in the right currency and at the right time.<br>
-• Assisting the Treasury & Rule Book manager with audit queries.
+account, in the right currency and at the right time.
+- Assisting the Treasury & Rule Book manager with audit queries.
 
 ## Skills
 
