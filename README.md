@@ -61,6 +61,7 @@ designed with the purpose of helping people reduce waste by utilising leftover/s
 
 ## Hobbies
 
+- Freelance computer builder 
 - Strength training 
 - Football
 - Cricket
