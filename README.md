@@ -2,8 +2,6 @@
 
 A determined, hard-working full stack developer from London, passionate about learning and self-improvement. After 6 months of working in finance, I decided to explore my underlying passion for technology and put all my focus in to learning software development. After joining Makers Academy Bootcamp, I was able to enhance my skills as a software developer, learning key concepts such as Test-Driven Development and Agile workflows. 
 
-A committed, hard-working tech enthusiast with an eagerness to learn new things, further enhanced by my education at the Makers Academy Bootcamp. Key concepts such as keeping to a strict Test-Driven Development and being able to follow an Agile workflow. A team player who is well versed in working on large projects and producing ideas for continuous improvement, as well as taking on personal responsibilities when it comes to learning new concepts.
-
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
