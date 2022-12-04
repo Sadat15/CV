@@ -56,7 +56,7 @@ designed with the purpose of helping people reduce waste by utilising leftover/s
 
 #### University of Essex (October 2018 - July 2021)
 
-- BSc Accounting and Finance
+- BSc - Accounting and Finance
 - Grade: 2:1 (67%)
 
 ## Hobbies
