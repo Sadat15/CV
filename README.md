@@ -1,4 +1,4 @@
-## Sadat
+## Sadat M
 
 A determined, hard-working full stack developer from London, passionate about learning and self-improvement. After 6 months of working in finance, I decided to explore my underlying passion for technology and put all my focus in to learning software development. After joining Makers Academy Bootcamp, I was able to enhance my skills as a software developer, learning key concepts such as Test-Driven Development and Agile workflows. 
 
