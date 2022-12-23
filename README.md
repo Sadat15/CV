@@ -7,7 +7,7 @@ A determined, hard-working full stack developer from London, passionate about le
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [**Ingredient based recipe app**](https://github.com/Sadat15/ingredient-based-recipe-app) | Recipe app allowing users to search for recipes with ingredients they have inputted. | JavaScript, Express, Node.js, React, MongoDB |
-| [**Acebook**](https://github.com/adaoub/acebook) | Social media app inspired by Facebook. Features include comments, likes and friend requests | JavaScript, Express, Node.js, Handlebars, MongoDB |
+| [**Acebook**](https://github.com/adaoub/acebook) | Social media app inspired by Facebook. Features include comments, likes and friend requests. | JavaScript, Express, Node.js, Handlebars, MongoDB |
 | [**Tech Test: Bank**](https://github.com/Sadat15/bank-tech-test)| A tech test is undertaken to showcase clean code that logs deposits withdrawals from a bank account | JavaScript, Jest|
 | [**Makers BnB**](https://github.com/Sadat15/makersbnb)| Air bnb inspired web application | Ruby, HTML, CSS, JavaScript, Rspec, Capybara, PostgreSQL, Sinatra |
 
